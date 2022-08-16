@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pointdexter16
 - 👀 I’m interested in building new exciting projects that are challenging and fun at the sametime.
-- 🌱 I’m currently learning backend development,how to build deep neural networks using python from scratch,etc.
+- 🌱 I’m currently learning backend development,how to build deep neural networks using python from scratch,data compression algorithm,data mining,etc.
 - 💞️ I’m looking to collaborate on something that i am not currently sure about but collaborating sounds fun.
 - 📫 I am new to this platform so I don't know if you can reach me direclty from github but if you are interested you can mail me.
